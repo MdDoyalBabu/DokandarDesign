@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="agentText">Agent Login</string>
+
+    <string name="agentName">Agent Name</string>
+    <string name="withdrawbtn">Withdraw</string>
+    <string name="agentphoneNumber">Enter Agent Phone Number</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="forgotPassword">Forgot Password</string>
+    <string name="checkbox">Remember Me</string>
+    <string name="donthavAcccount">Dont Have An Account</string>
+    <string name="createAccount">Create Accont</string>
+
+
+    <string name="sendmony">SEND MONEY</string>
+    <string name="casbalanceTtile">Cash Balance Send</string>
+    <string name="casbalancewithdraw">Cash Balance Withdraw</string>
+    <string name="availableShop">You Available Shop Balance:1015</string>
+    <string name="selectype">Select Withdraw Type</string>
+    <string name="EnterAmount">Enter Amount</string>
+
+    <string name="typeCashBalance">Type-Cash Balance -</string>
+    <string name="amount">Amount  -</string>
+    <string name="payWith">Pay With -</string>
+    <string name="reciverNumber">Receiver Number -</string>
+    <string name="newBalance">New Balance -</string>
+    <string name="downloadInvoice">DOWNLOAD INVOICE -</string>
+
+
+    <string name="phone">Phone :</string>
+    <string name="name">Name :</string>
+    <string name="joiningDate">Joining Date :</string>
+    <string name="cashBalance">Cash Balance : 9,000</string>
+    <string name="addBalance">Add Balance </string>
+    <string name="sendBalance">Send Balance</string>
+    <string name="allorfder">All Order</string>
+    <string name="pendingDelivery">pendingDelivery</string>
+    <string name="DeliveryOrder">Delivered Order</string>
+    <string name="createAnOnlineShop">Create An Online Shop</string>
+
+    <string name="senderphone">sender phone </string>
+    <string name="trxlId">Trxl ID</string>
+
+    <string name="sendMoneytoTheUser">Send Money To The User</string>
+    <string name="sendMoney"> SEND MONEY </string>
+    <string name="bkash">BKASH</string>
+    <string name="bank">BANK</string>
+    <string name="submit">SUBMIT</string>
+
+    <string name="details">My startCreation is trying to call external file/directory picker. If it is missing call show installResultMessage function.
+    My startCreation is trying to call external file/directory picker. If it is missing call show installResultMessage function</string>
+
+
+    <string name="transctionRecipt">Transaction recipt</string>
+    <string name="chosefile">Chose file</string>
+
+
+
+</resources>
